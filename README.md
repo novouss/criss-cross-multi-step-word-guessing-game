@@ -1,5 +1,4 @@
-# criss-cross-multi-step-word-guessing-game
-Criss-Cross Multi-Step Word Guessing Game
+# Criss-Cross Multi-Step Word Guessing Game
 
 THe goal of the game is for the player to guess words through a series of guesses of "subwords". The player will be given a different number of guesses (with different subwords to guess), depending on the dificulty selection.
 
