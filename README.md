@@ -1,6 +1,6 @@
 # Criss-Cross Multi-Step Word Guessing Game
 
-The goal of the game is for the player to guess words through a series of guesses of "subwords". The player will be given a different number of guesses (with different subwords to guess), depending on the dificulty selection.
+The goal of the game is for the player to guess words through a series of guesses of "subwords". The player will be given a different number of guesses (with different subwords to guess), depending on the difficulty selection.
 
 FIXED DIFFICULTY
 Each vowel guessed in the correct position gets 14 points. Each consonant guessed in the correct position gets 12 points. Each letter guessed correctly but in the wrong position within the substring gets 5 points. You can assume that the words do not contain repeated letters and all guesses are lowercase letters.
