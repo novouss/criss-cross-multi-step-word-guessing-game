@@ -47,7 +47,6 @@ def user_guess(substring, user, scores):
 
 	# Calculates user score
 
-	# This is the stuipdest part of this code hahahhaha
 	vowel = ['a', 'e', 'i', 'o', 'u'] 
 	consonant = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z']
 
